@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import Input from '../Input/Input';
+import Input from '../Input';
 import { useState } from 'react';
 import { livros } from './dados';
 

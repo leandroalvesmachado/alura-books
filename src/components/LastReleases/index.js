@@ -1,7 +1,7 @@
 import styled from 'styled-components';
-import { Title } from '../Title/Title';
+import { Title } from '../Title';
 import { livros } from './dados';
-import Card from '../Card/Card';
+import Card from '../Card';
 import imagemLivro from '../../images/livro2.png'
 
 const UltimosLancamentosContainer = styled.section`

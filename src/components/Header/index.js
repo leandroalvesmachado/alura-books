@@ -1,7 +1,7 @@
 import styled from 'styled-components';
-import Logo from '../Logo/Logo';
-import OpcoesHeader from '../OpcoesHeader/OpcoesHeader';
-import IconesHeader from '../IconesHeader/IconesHeader';
+import Logo from '../Logo';
+import OpcoesHeader from '../OpcoesHeader';
+import IconesHeader from '../IconesHeader';
 
 const HeaderContainer = styled.header`
   background-color: #FFF;
